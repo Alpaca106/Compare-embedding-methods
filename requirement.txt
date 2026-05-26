@@ -1,20 +1,11 @@
-# Lõi Học máy Lượng tử (Quantum Machine Learning)
 pennylane>=0.33.0
 qiskit>=0.45.0
 pennylane-qiskit>=0.33.0
-
-# Lõi Học máy Cổ điển & Tối ưu hóa (Classical Machine Learning)
 torch>=2.1.0
 scikit-learn>=1.3.0
-
-# Xử lý Dữ liệu & Tính toán Toán học
 numpy>=1.24.0
 pandas>=2.0.0
-
-# Trực quan hóa Dữ liệu (Vẽ biểu đồ)
 matplotlib>=3.7.0
 seaborn>=0.12.0
-
-# Môi trường chạy code
 jupyter>=1.0.0
 notebook>=7.0.0
